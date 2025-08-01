@@ -4,4 +4,4 @@ This repository provides templates that anyone can use (and alter to better suit
 
 These templates will work best in editors that can render markdown language, but can also be used as simple text files (change the file extension from .md to .txt).
 
-For more context, see: https://wmhenrymorris.com/curiosities/whm-tech-stack.html
+For more context, see: [The WHM Tech Stack](https://wmhenrymorris.com/curiosities/whm-tech-stack.html)
